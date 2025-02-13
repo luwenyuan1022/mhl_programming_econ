@@ -1,2 +1,3 @@
-# mhl_programming_econ-
-mostly harmless programming for economists
+# mhl_programming_econ
+
+DongboShi/mhl_programming_econ
